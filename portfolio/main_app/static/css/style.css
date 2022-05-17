@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+}
+footer{
+    padding-top: 40px;
+    margin-top: 10px;
+}
+h1{
+    font-family: 'Rock Salt';
+}
+.img-fluid{
+    width: auto;
+    max-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: url(https://i.imgur.com/IYixueq.jpg);
+}
+
+.container > p {
+    justify-content: left;
+}
+
+p.lead{
+    z-index: 2 !important;
+    color: aliceblue;
+}
+
+
+
